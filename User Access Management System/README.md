@@ -32,12 +32,12 @@ This project demonstrates secure authentication, user-friendly onboarding, and r
 - All demo data is synthetically generated.
 - If you wish to discuss the implementation details, feel free to reach out!
 
-
 ---
+
 
 ## 📫 Contact
 
-For any questions or job opportunities, please contact me on [www.linkedin.com/in/yassa-mazhar-811b26273](www.linkedin.com/in/yassa-mazhar-811b26273).
+For any questions or job opportunities, please contact me on [LinkedIn](https://www.linkedin.com/in/yassa-mazhar-811b26273).
 
 ---
 
