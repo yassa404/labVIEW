@@ -37,7 +37,7 @@ This project demonstrates secure authentication, user-friendly onboarding, and r
 
 ## 📫 Contact
 
-For any questions or job opportunities, please contact me on [LinkedIn](YOUR_LINKEDIN_URL_HERE).
+For any questions or job opportunities, please contact me on [LinkedIn](www.linkedin.com/in/yassa-mazhar-811b26273).
 
 ---
 
