@@ -28,7 +28,6 @@ This project demonstrates secure authentication, user-friendly onboarding, and r
 ## ℹ️ About This Project
 
 - This system is a **personal portfolio project** to demonstrate practical applications of software engineering, user experience design, data validation, and hardware (webcam) integration in LabVIEW.
-- **No source code is provided** in this repository to protect the assessment process and intellectual property.
 - All demo data is synthetically generated.
 - If you wish to discuss the implementation details, feel free to reach out!
 
